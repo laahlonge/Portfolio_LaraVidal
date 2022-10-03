@@ -305,8 +305,8 @@ a:hover span::before{
     flex-direction: row;
 }
 .fotos-projetos img{
-    height: 150px;
-    width: 150px;
+    height: 140px;
+    width: 140px;
     margin: 10px;    
 }
 
